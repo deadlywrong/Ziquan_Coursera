@@ -1,0 +1,3 @@
+Test this commands
+exit
+
