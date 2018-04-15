@@ -47,6 +47,7 @@ int main() {
   /* Statistics and Printing Functions Go Here */
   print_array(test, SIZE);
   sort_array(test, SIZE);
+  print_array(test, SIZE);
 
   return 1;
 }
